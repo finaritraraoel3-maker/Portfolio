@@ -1,0 +1,18 @@
+img{
+    border-radius: 2000px;
+}
+div.io{
+    display: flex;
+    gap: 100px;
+    margin: 100px;
+    margin-left: 150px;
+    justify-content: center;
+}
+div.io div{
+    font-size: 20pt;
+}
+section.contact {
+    justify-content: center;
+    text-align: center;
+    font-size: 20pt;
+}
